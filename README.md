@@ -18,8 +18,8 @@
 - 📫 How to reach me:
  - Github: Sakshii Sen
  - Linkedln:www.linkedin.com/in/sakshi-sen-851151214
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love solving real-world problems with data and exploring new AI trends!
 
 <!---
 SakshiiSen/SakshiiSen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
